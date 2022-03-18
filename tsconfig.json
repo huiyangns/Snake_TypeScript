@@ -1,0 +1,20 @@
+{
+    // "include": [
+    //     "./src/**/*"
+    // ],
+    "compilerOptions": {
+        "target": "ES2015",
+        "module": "ES2015",
+        // "outDir": "./dist",
+        // "allowJs": true,
+        // "checkJs": false,
+        "noEmitOnError": true,
+        // "removeComments": true,
+        "strict": true,
+        // "alwaysStrict": true,
+        // "noImplicitAny": true,
+        // "noImplicitThis": true,
+
+
+    }
+}
